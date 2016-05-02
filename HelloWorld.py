@@ -1,0 +1,5 @@
+print "Hello World!"
+print "My Name is Nani."
+print "I want to learn to program or code using python." 
+print "I use this place to keep my little project files."
+print "
